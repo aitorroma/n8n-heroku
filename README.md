@@ -14,7 +14,7 @@ Desplega N8N en **Heroku**, fácil y rápido. Solo tendrás que darle al botón 
 
 **Actualizar versión**
 
-* [Upgrade](https://github.com/aitorroma/n8n-heroku/Upgrade.md)
+* [Upgrade](https://github.com/aitorroma/n8n-heroku/blob/main/Upgrade.md)
 
 Si esta instancia se te queda pequeña puedes instalarlo en tu VPS.
 
