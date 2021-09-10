@@ -1,3 +1,5 @@
+![image-20210506104427925](https://tva1.sinaimg.cn/large/008i3skNgy1gq8sv4q7cqj303k03kweo.jpg)
+
 ### Deployar nueva versión
 
 **Requisitos**
