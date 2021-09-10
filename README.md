@@ -12,12 +12,18 @@ Desplega N8N en **Heroku**, fácil y rápido. Solo tendrás que darle al botón 
 
 
 
+**Actualizar versión**
+
+* [Upgrade](https://github.com/aitorroma/n8n-heroku/Upgrade.md)
+
 Si esta instancia se te queda pequeña puedes instalarlo en tu VPS.
 
 * [Instalación con Docker](https://www.comunidad-n8n.com/instalacion-con-docker/)
 * [Instalación con NPM](https://www.comunidad-n8n.com/instalacion-con-npm/)
 
 **Ejemplos de Workflows:** https://n8n.io/workflows
+
+
 
 ----------------------------------------------------------
 
