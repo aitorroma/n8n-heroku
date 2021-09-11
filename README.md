@@ -27,9 +27,13 @@ Si esta instancia se te queda pequeña puedes instalarlo en tu VPS.
 
 ## Invitación a mi Canal.
 
-Estás invitado a mi canal de telegram, donde publico más soluciones como esta.
+En mi canal hablo sobre #GrowthHacking, #NoCode, #Clou Computing, #Automatización, #SoftwareLibre y todo eso que me mueve. 
+
+Recomiendo herramientas y también recursos que encuentro que pueden aportar valor.  
 
 ![Telegram-icon](https://tva1.sinaimg.cn/large/008i3skNgy1guctnvd002j600w00w0r202.jpg)https://t.me/aitorroma
+
+¡Nos vemos dentro!
 
 ----------------------------------------------------------
 
