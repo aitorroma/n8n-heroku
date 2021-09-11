@@ -25,7 +25,7 @@ Si esta instancia se te queda pequeña puedes instalarlo en tu VPS.
 
 
 
-**Invitación a mi Canal.**
+## Invitación a mi Canal.
 
 Estás invitado a mi canal de telegram, donde publico más soluciones como esta.
 
