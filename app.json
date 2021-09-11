@@ -29,16 +29,16 @@
         "value": "pass"
       },
       "N8N_ENCRYPTION_KEY": {
-        "description": "This is to set the n8n encryption key to a static value, so that heroku doesnt override it, causing AUTH to fail",
+        "description": "Esto es para establecer la clave de cifrado n8n en un valor estático, de modo que heroku no lo anule, causando que AUTH falle.",
         "value": "MdRRn2jiZuVeh5tI77A6"
       },
       "PGSSLMODE": {
-        "description": "Heroku made a change so SSL is required to connect to Postgres",
+        "description": "Heroku hizo un cambio, por lo que se requiere SSL para conectarse a Postgres",
         "value": "require"
       },
       "NODE_TLS_REJECT_UNAUTHORIZED": {
         "description": "Dejar este valor a 0",
-        "value": 0
+        "value": "0"
       }
     },
     "formation": {
